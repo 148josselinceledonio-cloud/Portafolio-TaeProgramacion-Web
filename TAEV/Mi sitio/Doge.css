@@ -1,0 +1,217 @@
+/*Selector */
+p {
+    color: #6a6b0e;
+    
+}
+.fondo {
+    background-color: #010414;
+}
+.fondo2 {
+    background-color: #250400;
+}
+.fondo3 {
+    background-color: #010414;
+}
+.fondo4 {
+    background-color: #180033;
+}
+.title {
+    background-color: #9878bd;
+    color: #8eb1ce;
+    font-style:italic;
+}
+
+.texto-footer {
+    font-size: 14px;
+    text-align: center;
+    color: #792a2a;
+}
+p {
+    color: #7fdff7;
+}
+
+.centrar2 {
+    color: #7fdff7;
+    text-align: center;
+}
+
+.advertencia {
+    font-weight: bold;
+    background-color: #37576d;
+    text-align: center;
+}
+
+.advertencia2{
+    color: #d8d65a;
+    font-weight: bold;
+    background-color: #8d8407;
+    text-align: center;
+}
+
+.advertencia3{
+    color: #c4020b;
+    font-weight: bold;
+    background-color: #410404;
+    text-align: center;
+}
+
+h2 { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(130, 235, 235);
+}
+
+.amarillo { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(234, 236, 73);
+}
+
+.rojo { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(160, 57, 49);
+}
+
+.kiwi { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(172, 46, 37);
+    background-color: #420000;
+}
+
+.rebeca { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(194, 243, 189);
+        background-color: #01291a;
+}
+
+.dorado { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(172, 141, 3);
+        background-color: #181a01;
+}
+
+.david { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(219, 214, 135);
+        background-color: #a59a05;
+}
+
+.lucy { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(163, 236, 227);
+        background-color: #37185a;
+}
+
+.jefe { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(156, 17, 7);
+        background-color: #000000;
+}
+
+.novia { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(75, 184, 192);
+        background-color: #032558;
+}
+
+.falco { 
+    padding: 5px;
+    text-align: center;
+    color: rgb(214, 193, 142);
+        background-color: #0f0600;
+}
+
+nav { 
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.tabla {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border: 2px solid #7fdff7;
+}
+
+.azul {
+    background-color: #02174e;
+}
+.rojo {
+    background-color: #4e0202;
+}
+.verde {
+    background-color: #0c3f19;
+}
+.amarillo {
+    background-color: #4e4e02;
+}
+
+.negro {
+    background-color: #000000;
+}
+
+h1 {
+    text-align: center;
+    color: #ccdb78;
+    font-weight: bold;
+}
+
+.centrar {
+    text-align: center;
+}
+
+
+.video-container video {
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid #8eb1ce;
+}
+.letratachada {
+  font-family: "Playwrite TZ Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+    text-align: center;
+}
+
+.ciber {
+  font-family: "Redaction 50", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ciber2 {
+  font-family: "Redaction 50", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ciber3 {
+  font-family: "Redaction 50", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.elegante {
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.elegante2 {
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #faeaea;
+}
+
+
